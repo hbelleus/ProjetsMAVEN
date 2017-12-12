@@ -1,0 +1,6 @@
+fr\proxibanque\proxibanquev2\service\CompteService.class
+fr\proxibanque\proxibanquev2\service\ConseillerService.class
+fr\proxibanque\proxibanquev2\service\VirementService.class
+fr\proxibanque\proxibanquev2\service\AuthService.class
+fr\proxibanque\proxibanquev2\service\ClientService.class
+fr\proxibanque\proxibanquev2\service\ExceptionVirement.class
