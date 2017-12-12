@@ -21,6 +21,14 @@
     <module>ProxibanqueV2_Mav-web</module>
   </modules>
   
+  <dependencies>
+	<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test<test>
+	</dependency>
+  </dependencies>
+  
 <build>
     <plugins>
       <plugin>
